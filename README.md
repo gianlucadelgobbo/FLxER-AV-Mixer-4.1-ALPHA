@@ -2,10 +2,12 @@ FLxER AV Mixer 4.1 ALPHA
 =============
 PC / MAC
 
+https://flxer.net
+
 Published
 ------------
 14-05-2006
-
+```
 ///////////////////////////////////////////
 /                                         /
 / XXXXX X     X   X xxxxx xxxx            /
@@ -15,13 +17,13 @@ Published
 / X     XXXXX X   X xxxxx x   x   4alpha  /
 /                                         /
 ///////////////////////////////////////////
-
->> BEFORE START ___________________________
-
+```
+BEFORE START
+------------
 FLxER is a free software made with internet tecnology so for security reasons doesn't read the content of your hard disk. every video file and plug-in, wipe, effect, has to be addeed to the xml files that the application loads before to start.
 
->> SUGESTIONS _____________________________
-
+SUGESTIONS
+------------
 1) Launch the application FLxER (MAC) / FLXER.exe (PC) / FLxER.htm (LINUX) and take a tour of the funcnionality start from "select library" and load some movie.
 
 
@@ -36,8 +38,8 @@ FLxER is a free software made with internet tecnology so for security reasons do
 2.c) Follow the comments on "preferences/flxer_pref.xml" to setup flxer settings
 
 
-UPGRADING FLxER 3.0.1 _____________________
-
+UPGRADING FLxER 3.0.1
+------------
 1) Unzip FLxER4 in a new folder
 
 2) overwrite the library folder with your flxer3 library folder
@@ -47,8 +49,8 @@ UPGRADING FLxER 3.0.1 _____________________
 4) open the new "preferences/flxer_pref.xml" and paste it into the second node (<librarys>)
 
 
-FLxER 4 FEATURES __________________________
-
+FLxER 4 FEATURES
+------------
 - 7 channels video mixer
 
 - Supported media: .swf (full ActionScrpt 8 support), .flv, .jpg, .gif, .png, .txt
